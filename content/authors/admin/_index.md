@@ -64,4 +64,4 @@ email: ""
 # - Visitors
 ---
 
-I am a PhD Student at the State Key Laboratory of Industrial Control and Technology, Zhejiang University. My research focuses on developing minimal solutions or globally optimal solvers for robust visual localization in changing environments, facing up the siginicant appearance changes such as weather or season changes, illumination variations.
+I am a PhD Student at the State Key Laboratory of Industrial Control and Technology, Zhejiang University. My research focuses on developing minimal solutions and globally optimal solvers for robust visual localization in changing environments, facing up the siginicant appearance changes such as weather or season changes, illumination variations.
