@@ -1,13 +1,18 @@
 ---
-title: "An example conference paper"
+title: "2-Entity RANSAC for robust visual localization in changing environment"
 authors:
 - admin
-- Robert Ford
-date: "2013-07-01T00:00:00Z"
+- Yue Wang
+- Bo Fu
+- Xiaqing Ding
+- Qimeng Tan
+- Lei Chen
+- Rong Xiong
+date: "2019-11-04"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2019-11-04T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,23 +21,23 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: In *IEEE/RSJ International Conference on Intelligent Robots and Systems*
+publication_short: In *IROS*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Visual localization has attracted considerable attention due to its low-cost and stable sensor, which is desired in many applications, such as autonomous driving, inspection robots and unmanned aerial vehicles. However, current visual localization methods still struggle with environmental changes across weathers and seasons, as there is significant appearance variation between the map and the query image. The crucial challenge in this situation is that the percentage of outliers, i.e. incorrect feature matches, is high. In this paper, we derive minimal closed form solutions for 3D-2D localization with the aid of inertial measurements, using only 2 point matches or 1 point match and 1 line match. These solutions are further utilized in the proposed 2-entity RANSAC, which is more robust to outliers as both line and point features can be used simultaneously and the number of matches required for pose calculation is reduced. Furthermore, we introduce three feature sampling strategies with different advantages, enabling an automatic selection mechanism. With the mechanism, our 2-entity RANSAC can be adaptive to the environments with different distribution of feature types in different segments. Finally, we evaluate the method on both synthetic and real-world datasets, validating its performance and effectiveness in inter-session scenarios.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 links:
 - name: Custom Link
   url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_code: '#'
+url_pdf: https://ieeexplore.ieee.org/document/8967671
+url_code: 'https://github.com/slinkle/2-Entity-RANSAC'
 url_dataset: '#'
 url_poster: '#'
 url_project: ''
