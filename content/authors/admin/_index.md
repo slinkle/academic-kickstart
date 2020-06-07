@@ -32,7 +32,7 @@ education:
     year: 2017-
   - course: BS in Intelligent Science and Technology
     institution: Nankai University
-    year: 2017
+    year: 2013-2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
