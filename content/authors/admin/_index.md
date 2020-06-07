@@ -41,7 +41,8 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:ymjiao@zju.edu.cn"  # For a direct email link, use "ymjiao@zju.edu.cn".
+  #link: "mailto:ymjiao@zju.edu.cn"  # For a direct email link, use "ymjiao@zju.edu.cn".
+  link: '#contact'  # For a direct email link, use "ymjiao@zju.edu.cn".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=jL8XXWwAAAAJ&hl=zh-CN&oi=sra
