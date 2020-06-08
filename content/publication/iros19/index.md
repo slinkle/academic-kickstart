@@ -1,7 +1,7 @@
 ---
 title: "2-Entity RANSAC for robust visual localization in changing environment"
 authors:
-- **admin**
+- *admin*
 - Yue Wang
 - Bo Fu
 - Xiaqing Ding
