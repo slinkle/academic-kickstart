@@ -9,7 +9,7 @@ authors:
 - Lei Chen
 - Rong Xiong
 date: "2019-11-04"
-doi: ""
+doi: "10.1109/IROS40897.2019.8967671"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-11-04T00:00:00Z"
@@ -34,16 +34,8 @@ tags:
 featured: false
 
 links:
-- name: Custom Link
-  url: http://example.org
 url_pdf: https://ieeexplore.ieee.org/document/8967671
 url_code: 'https://github.com/slinkle/2-Entity-RANSAC'
-# url_dataset: '#'
-# url_poster: '#'
-# url_project: ''
-# url_slides: ''
-# url_source: '#'
-# url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
