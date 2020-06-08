@@ -33,15 +33,8 @@ tags:
 featured: false
 
 # links:
-# - name: ""
-#   url: ""
 url_pdf: https://ieeexplore.ieee.org/document/9059034
 url_code: 'https://github.com/slinkle/2-Entity-RANSAC'
-# url_dataset: ''
-# url_poster: ''
-# url_project: ''
-# url_slides: ''
-# url_source: ''
 url_video: 'https://www.youtube.com/watch?v=5BA-9fIvf8U&t=11s'
 
 # Featured image
