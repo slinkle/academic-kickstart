@@ -33,8 +33,6 @@ tags:
 featured: false
 
 # links:
-# - name: ""
-#   url: ""
 url_pdf: https://ieeexplore.ieee.org/abstract/document/8263146
 
 # Featured image
