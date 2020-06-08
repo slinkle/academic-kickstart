@@ -1,17 +1,17 @@
 ---
-title: "2-Entity RANSAC for Robust Visual Localization: Framework, Methods and Verifications"
+title: "LiDAR-Camera Calibration under Arbitrary Configurations: Observability and Methods"
 authors:
-- admin
+- Bo Fu
 - Yue Wang
 - Xiaqing Ding
-- Bo Fu
-- Shoudong Huang
+- admin
+- Li Tang
 - Rong Xiong
-date: "2020-04-07T00:00:00Z"
-doi: "10.1109/TIE.2020.2984970"
+date: "2019-07-29T00:00:00Z"
+doi: "10.1109/TIM.2019.2931526"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-04-07T00:00:00Z"
+publishDate: "2019-07-29T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,10 +20,10 @@ publishDate: "2020-04-07T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "* IEEE Transactions on Industrial Electronics, 1*(1)"
-publication_short: "IEEE TIE"
+publication: "* IEEE Transactions on Instrumentation and Measurement , 69*(6)"
+publication_short: "IEEE TIM"
 
-abstract: In *IEEE Transactions on Industrial Electronics (TIE)*, 2020
+abstract: In *IEEE Transactions on Instrumentation and Measurement (TIM)*, 2019
 
 # Summary. An optional shortened abstract.
 # summary: Robust and efficient visual localization is essential for numerous robotic applications.
@@ -35,14 +35,14 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://ieeexplore.ieee.org/document/9059034
-url_code: 'https://github.com/slinkle/2-Entity-RANSAC'
+url_pdf: https://ieeexplore.ieee.org/abstract/document/8778711
+# url_code: 'https://github.com/slinkle/2-Entity-RANSAC'
 # url_dataset: ''
 # url_poster: ''
 # url_project: ''
 # url_slides: ''
 # url_source: ''
-url_video: 'https://www.youtube.com/watch?v=5BA-9fIvf8U&t=11s'
+# url_video: 'https://www.youtube.com/watch?v=5BA-9fIvf8U&t=11s'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
