@@ -23,7 +23,7 @@ publication_types: ["2"]
 publication: "* IEEE Transactions on Industrial Electronics, 1*(1)"
 publication_short: "IEEE TIE"
 
-abstract: In IEEE Transactions on Industrial Electronics (TIE), 2020
+abstract: In *IEEE Transactions on Industrial Electronics (TIE)*, 2020
 
 # Summary. An optional shortened abstract.
 summary: Robust and efficient visual localization is essential for numerous robotic applications.
