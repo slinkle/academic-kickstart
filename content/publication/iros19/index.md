@@ -21,10 +21,10 @@ publishDate: "2019-11-04T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE/RSJ International Conference on Intelligent Robots and Systems*
+publication: In *Proceedings of IEEE/RSJ International Conference on Intelligent Robots and Systems*
 publication_short: In *IROS*
 
-abstract: In *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2019
+abstract: In *Proceedings of IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2019
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
