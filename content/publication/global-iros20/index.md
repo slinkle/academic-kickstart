@@ -21,10 +21,10 @@ publishDate: "2020-02-27T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: In *IEEE/RSJ International Conference on Intelligent Robots and Systems*
+publication_short: In *IROS*
 
-abstract: Proceedings of the 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2020), 2020.
+abstract: In *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2020
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
