@@ -35,7 +35,7 @@ tags:
 featured: false
 
 links:
-url_pdf: https://arxiv.org/abs/2002.11905
+url_pdf: https://ieeexplore.ieee.org/document/9340715
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
