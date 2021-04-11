@@ -20,7 +20,7 @@ publishDate: "2020-04-07T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "* IEEE Transactions on Industrial Electronics, 1*(1)"
+publication: "* IEEE Transactions on Industrial Electronics, 68*(5)"
 publication_short: "IEEE TIE"
 
 abstract: In *IEEE Transactions on Industrial Electronics (TIE)*, 2020
