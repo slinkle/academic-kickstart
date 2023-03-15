@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: lecture
+role: Lecture
 
 # Organizations/Affiliations
 organizations:
@@ -27,9 +27,6 @@ interests:
 
 education:
   courses:
-  - course: lecture in School of Information Science and Technology
-    institution: Hangzhou Normal University
-    year: 2022-
   - course: PhD in Control Science and Engineering
     institution: Zhejiang University
     year: 2017-2022
