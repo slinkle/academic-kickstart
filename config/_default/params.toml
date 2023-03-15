@@ -88,19 +88,19 @@ show_related = {docs = true, page = false, post = false, project = false, public
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "ymjiao@zju.edu.cn"
+email = "ymjiao@hznu.edu.cn"
 # phone = "888 888 88 88"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "38 Zheda Road", city = "Hangzhou", region = "Xihu", postcode = "310000", country = "China", country_code = "CN"}
+address = {street = "2318 Yuhangtang Road", city = "Hangzhou", region = "Yuhang", postcode = "311121", country = "China", country_code = "CN"}
 # Room 104 CSC Building,38 Zheda Road,Yuquan Campus, Zhejiang University
 # Geographic coordinates
-# To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "30.266743", longitude = "120.122854"}
+# To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom. 30.289698737485622, 120.00985381166421
+coordinates = {latitude = "30.289698", longitude = "120.009853"}
 
 # Directions for visitors to locate you.
-directions = "Room 104 CSC Building"
+directions = "Room 509 Qin-12 Building"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
