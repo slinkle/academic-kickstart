@@ -14,7 +14,7 @@ role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Zhejiang University
+- name: Hangzhou Normal University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -27,9 +27,12 @@ interests:
 
 education:
   courses:
+  - course: lecture in School of Information Science and Technology
+    institution: Hangzhou Normal University
+    year: 2022-
   - course: PhD in Control Science and Engineering
     institution: Zhejiang University
-    year: 2017-
+    year: 2017-2022
   - course: BS in Intelligent Science and Technology
     institution: Nankai University
     year: 2013-2017
@@ -41,8 +44,8 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  #link: "mailto:ymjiao@zju.edu.cn"  # For a direct email link, use "mailto:ymjiao@zju.edu.cn".
-  link: '#contact'  # For a direct email link, use "mailto:ymjiao@zju.edu.cn".
+  #link: "mailto:ymjiao@hznu.edu.cn"  # For a direct email link, use "mailto:ymjiao@hznu.edu.cn".
+  link: '#contact'  # For a direct email link, use "mailto:ymjiao@hznu.edu.cn".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=jL8XXWwAAAAJ&hl=zh-CN&oi=sra
@@ -65,4 +68,4 @@ email: ""
 # - Visitors
 ---
 
-I am a PhD Student at the State Key Laboratory of Industrial Control and Technology, Zhejiang University. My research focuses on developing minimal solutions and globally optimal solvers for robust visual localization in changing environments, facing up the siginicant appearance changes such as weather or season changes, illumination variations.
+I am currently a lecture in School of Information Science and Technology, Hangzhou Normal University. My research focuses on developing minimal solutions and globally optimal solvers for robust visual localization in changing environments, facing up the siginicant appearance changes such as weather or season changes, illumination variations.
