@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Lecture
+role: Lecturer
 
 # Organizations/Affiliations
 organizations:
@@ -65,4 +65,4 @@ email: ""
 # - Visitors
 ---
 
-I am currently a lecture in School of Information Science and Technology, Hangzhou Normal University. My research focuses on developing minimal solutions and globally optimal solvers for robust visual localization in changing environments, facing up the siginicant appearance changes such as weather or season changes, illumination variations.
+I am currently a lecturer in School of Information Science and Technology, Hangzhou Normal University. My research focuses on developing minimal solutions and globally optimal solvers for robust visual localization in changing environments, facing up the siginicant appearance changes such as weather or season changes, illumination variations.
